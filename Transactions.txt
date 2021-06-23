@@ -1,0 +1,8 @@
+Beef,Chicken,Milk
+Beef,Cheese
+Cheese,Boots
+Beef,Chicken,Cheese
+Beef,Chicken,Clothes,Cheese,Milk
+Chicken,Clothes,Milk
+Chicken,Milk,Clothes
+
